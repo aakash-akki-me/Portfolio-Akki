@@ -202,6 +202,9 @@ body{
     align-items: center;
     
 }
+.w-card img{
+    width: 200px;
+}
 .card-text{
     display: flex;
     align-items: center;
